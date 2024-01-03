@@ -9,7 +9,7 @@ env:
   LOCATION: centralus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 61f9fcb9-2945-42c9-aae7-9edf80a88f89
-  WEBAPP-NAME: az400-webapp-new
+  WEBAPP-NAME: az400-webapp-new-patel
 
 
 jobs:
